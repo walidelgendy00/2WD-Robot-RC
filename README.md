@@ -1,5 +1,5 @@
 # 2WD Robot RC using Arduino
-![__alt text__](https://img.shields.io/github/deployments/:MAzewail/:2WD-Robot-RC/:environment)
+![__alt text__](https://img.shields.io/github/deployments/:MAzewail/:2WD-Robot-RC/:README.md)
 
 This repository contains the source code and documentation for a 2WD Robot RC using Arduino. The robot is controlled through a remote control and can move forward, backward, turn left, turn right, and stop.
 
