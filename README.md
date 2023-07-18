@@ -18,7 +18,7 @@ The following hardware is required to build this project:
 
 To install the software, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/yourusername/2wd-robot-rc.git`
+1. Clone this repository: `git clone https://github.com/MAzewail/2WD-Robot-RC.git`
 2. Connect the hardware components as shown in the diagram in the `docs` directory.
 3. Upload the `2wd-robot-rc.ino` sketch to the Arduino board using the Arduino IDE.
 4. Install a Bluetooth terminal app on your remote control device.
